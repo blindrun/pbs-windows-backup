@@ -1,0 +1,6 @@
+# Filled-in config: holds a PBS API token secret. Never commit.
+pbs-backup.config.ps1
+
+# Upstream binaries — download from the releases link in the README.
+*.exe
+*.zip
